@@ -3,6 +3,7 @@ UITextView+Placeholder
 
 [![Build Status](https://travis-ci.org/devxoul/UITextView-Placeholder.svg?branch=master)](https://travis-ci.org/devxoul/UITextView-Placeholder)
 [![CocoaPods](http://img.shields.io/cocoapods/v/UITextView+Placeholder.svg?style=flat)](http://cocoapods.org/?q=name%3AUITextView%2BPlaceholder)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fhaztheo%2FUITextView-Placeholder.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fhaztheo%2FUITextView-Placeholder?ref=badge_shield)
 
 A missing placeholder for UITextView.
 
@@ -61,3 +62,7 @@ License
 -------
 
 UITextView+Placeholder is under MIT license. See the [LICENSE](LICENSE) file for more information.
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fhaztheo%2FUITextView-Placeholder.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fhaztheo%2FUITextView-Placeholder?ref=badge_large)
